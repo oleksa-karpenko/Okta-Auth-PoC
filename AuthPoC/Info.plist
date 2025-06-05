@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ISSUER</key>
+  <string>some://issuer/url</string>
+	<key>CLIENT_ID</key>
+	<string>Some Client ID</string>
+	<key>REDIRECT_URI</key>
+	<string>some.redirect.url:/callback</string>
+	<key>LOGOUT_REDIRECT_URI</key>
+	<string>some.redirect.url:/callback</string>
+	<key>SCOPES</key>
+	<string>offline_access openid profile</string>
+</dict>
+</plist>

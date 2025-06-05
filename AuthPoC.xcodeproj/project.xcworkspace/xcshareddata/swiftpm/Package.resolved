@@ -1,0 +1,15 @@
+{
+  "originHash" : "06bdb1b0b55877a67d9c3e72c35284deaa20a49691e9b05c1798ec550d7107a6",
+  "pins" : [
+    {
+      "identity" : "okta-oidc-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/okta/okta-oidc-ios.git",
+      "state" : {
+        "revision" : "ff0b914c25f0638a08c837d433841d4fa22a79cc",
+        "version" : "3.11.7"
+      }
+    }
+  ],
+  "version" : 3
+}
