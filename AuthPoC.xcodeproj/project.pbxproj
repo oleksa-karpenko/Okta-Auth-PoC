@@ -21,6 +21,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		373AD4EB2E020AC200E0F9EE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		373C3A862DF0415C00364653 /* AuthPoC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AuthPoC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		373C3B202DF1786C00364653 /* AuthPoCTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AuthPoCTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		373C3B512DF1798F00364653 /* .swiftformat */ = {isa = PBXFileReference; lastKnownFileType = text; path = .swiftformat; sourceTree = "<group>"; };
@@ -28,7 +29,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		373C3AAE2DF05A8200364653 /* Exceptions for "AuthPoC" folder in "AuthPoC" target */ = {
+		37C90FEA2DFFC7DA005A1049 /* Exceptions for "AuthPoC" folder in "AuthPoC" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -41,7 +42,7 @@
 		373C3A882DF0415C00364653 /* AuthPoC */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				373C3AAE2DF05A8200364653 /* Exceptions for "AuthPoC" folder in "AuthPoC" target */,
+				37C90FEA2DFFC7DA005A1049 /* Exceptions for "AuthPoC" folder in "AuthPoC" target */,
 			);
 			path = AuthPoC;
 			sourceTree = "<group>";
@@ -75,6 +76,7 @@
 		373C3A7D2DF0415C00364653 = {
 			isa = PBXGroup;
 			children = (
+				373AD4EB2E020AC200E0F9EE /* README.md */,
 				373C3B512DF1798F00364653 /* .swiftformat */,
 				373C3B522DF1798F00364653 /* .swiftlint.yml */,
 				373C3A882DF0415C00364653 /* AuthPoC */,
